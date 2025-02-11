@@ -97,3 +97,12 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 **Developed by Vinayak Patil** 🚀
+
+![GIC1](https://github.com/user-attachments/assets/b754465f-6454-4147-9d46-ea74b98bcd11)
+
+![GIC2](https://github.com/user-attachments/assets/cc1f7f4f-dd1e-486c-b50e-c127ebd24355)
+
+![GIC3](https://github.com/user-attachments/assets/7fddf447-4bc9-49ae-b1b9-571e09f0fcbe)
+
+
+
