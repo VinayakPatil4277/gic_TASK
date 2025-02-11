@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857225059033",
+    "project_id": "gictask",
+    "storage_bucket": "gictask.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857225059033:android:9bc067f79a7798f1747cc8",
+        "android_client_info": {
+          "package_name": "com.orn.gic_task_java"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpiBWcIge0-P3pWRGyiZ9MxcCN00bqKMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
